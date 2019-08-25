@@ -6,31 +6,31 @@
 - Ruby
   - [ ] 🍒プロを目指す人のRuby入門
     - [x] 第1章 本書を読み始める前に
-    - [x] 第2章 Rubyの基礎を理解する
-    - [x] 第3章 テストを自動化する
-    - [x] 第4章 配列や繰り返し処理を理解する
-    - [x] 第5章 ハッシュやシンボルを理解する
+    - [ ] 第2章 Rubyの基礎を理解する
+    - [ ] 第3章 テストを自動化する
+    - [ ] 第4章 配列や繰り返し処理を理解する
+    - [ ] 第5章 ハッシュやシンボルを理解する
     - [ ] 第6章 正規表現を理解する
-    - [x] 第7章 クラス作成を理解する
-    - [x] 第8章 モジュールを理解する
-    - [x] 第9章 例外処理を理解する
-    - [x] 第10章 yieldとProcを理解する
-    - [x] 第11章 Rubyのデバック技法を身につける
-    - [x] 第12章 Rubyに関するその他のトピック
+    - [ ] 第7章 クラス作成を理解する
+    - [ ] 第8章 モジュールを理解する
+    - [ ] 第9章 例外処理を理解する
+    - [ ] 第10章 yieldとProcを理解する
+    - [ ] 第11章 Rubyのデバック技法を身につける
+    - [ ] 第12章 Rubyに関するその他のトピック
   - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
-  - [x] メタプログラミングRuby
+  - [ ] メタプログラミングRuby
   - [ ] Rubyのしくみ Ruby Under a Microscope
   - [ ] Effective Ruby
 - PHP
 - JavaScript
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
-  - [x] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
-  - [x] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
-  - [x] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
+  - [ ] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
+  - [ ] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
+  - [ ] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
   - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811)
 - CoffeeScript
-  - [x] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
-  - [x] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
+  - [ ] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
+  - [ ] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
 - Node.js
 - TypeScript
   - [ ] Revised TypeScript in Definitelyland
@@ -67,23 +67,23 @@
 
 ## Standards and Best Practices
 - コーディング規約
-  - [x] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
-  - [x] [airbnb / ruby](https://github.com/airbnb/ruby)
-  - [x] [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
-  - [x] [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
+  - [ ] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
+  - [ ] [airbnb / ruby](https://github.com/airbnb/ruby)
+  - [ ] [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
+  - [ ] [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
 
 ## Make and Distribute Some Package/Library
 - [ ] OSS貢献
 
 ## Learn about Testing
 - RSpec
-  - [x] [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp/read_full)
-  - [x] [Better Specs](http://www.betterspecs.org/)
+  - [ ] [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp/read_full)
+  - [ ] [Better Specs](http://www.betterspecs.org/)
   - [x] [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」](https://qiita.com/jnchito/items/42193d066bd61c740612)
   - [x] [使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」
 ](https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5)
-  - [x] [使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」](https://qiita.com/jnchito/items/640f17e124ab263a54dd)
-  - [x] [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」
+  - [ ] [使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」](https://qiita.com/jnchito/items/640f17e124ab263a54dd)
+  - [ ] [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」
 ](https://qiita.com/jnchito/items/607f956263c38a5fec24)
 
 ## Learn Relational Databases
@@ -102,19 +102,19 @@
 ## Learn a Framework
 - Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
-  - [x] [Rails Tutorial](https://railstutorial.jp/)
+  - [ ] [Rails Tutorial](https://railstutorial.jp/)
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
     - [ ] Railsをはじめよう
-    - [x] Active Recordの基礎
-    - [x] Active Recordマイグレーション
-    - [x] Active Recordバリデーション
-    - [x] Active Recordコールバック
-    - [x] Active Recordの関連付け
+    - [ ] Active Recordの基礎
+    - [ ] Active Recordマイグレーション
+    - [ ] Active Recordバリデーション
+    - [ ] Active Recordコールバック
+    - [ ] Active Recordの関連付け
     - [ ] Active Recordクエリインターフェイス
-    - [x] Active RecordとPostgreSQL
-    - [x] Active Modelの基礎
-    - [x] Action Viewの概要
-    - [x] レイアウトとレンダリング
+    - [ ] Active RecordとPostgreSQL
+    - [ ] Active Modelの基礎
+    - [ ] Action Viewの概要
+    - [ ] レイアウトとレンダリング
     - [ ] Action Viewフォームヘルパー
     - [ ] Action Controllerの概要
     - [ ] Rails のルーティング
@@ -122,46 +122,47 @@
     - [ ] Action Mailerの基礎
     - [ ] Action Mailboxの基礎
     - [ ] Action Textの概要
-    - [x] Active Jobの基礎
-    - [x] Active Storageの概要
+    - [ ] Active Jobの基礎
+    - [ ] Active Storageの概要
     - [ ] Action Cableの概要
     - [ ] Rails国際化(i18n)API
     - [ ] Railsテスティングガイド
     - [ ] Railsセキュリティガイド
-    - [x] Railsアプリケーションのデバッグ
+    - [ ] Railsアプリケーションのデバッグ
     - [ ] Railsアプリケーションを設定する
     - [ ] コマンドラインツール
-    - [x] アセットパイプライン
+    - [ ] アセットパイプライン
     - [ ] RailsでJavaScriptを使用する
-    - [x] Rails の初期化プロセス
+    - [ ] Rails の初期化プロセス
     - [ ] 定数の自動読み込みと再読み込み
-    - [x] Railsのキャッシュ機構
+    - [ ] Railsのキャッシュ機構
     - [ ] Active SupportのInstrumentation機能
     - [ ] Railsアプリケーションのテンプレート
-    - [x] RailsによるAPI専用アプリケーション
+    - [ ] RailsによるAPI専用アプリケーション
     - [ ] Railsプラグイン作成入門
     - [ ] RailsとRack
     - [ ] Railsジェネレータとテンプレート入門
-    - [x] Railsエンジン入門
+    - [ ] Railsエンジン入門
     - [ ] Rails のスレッドとコード実行
     - [ ] Ruby on Rails に貢献する方法
     - [ ] Railsコア開発環境の構築方法
-    - [x] APIドキュメント作成ガイドライン
+    - [ ] APIドキュメント作成ガイドライン
     - [ ] Railsガイドのガイドライン
 
 - React.js
-  - [x] [React(Progate)](https://prog-8.com/languages/react)
-  - [x] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
-  - [x] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
+  - [ ] [React(Progate)](https://prog-8.com/languages/react)
+  - [ ] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
+  - [ ] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
   - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
-  - [x] [正真正銘のReactだけの不純物なしでReact入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
-  - [x] [Reactを使うとなぜjQueryが要らなくなるのか](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)
-  - [x] [5分で理解する React.js](https://qiita.com/tomzoh/items/7fabe7cb57dd96425867)
-  - [x] [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
-  - [x] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
+  - [ ] [正真正銘のReactだけの不純物なしでReact入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
+  - [ ] [Reactを使うとなぜjQueryが要らなくなるのか](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)
+  - [ ] [5分で理解する React.js](https://qiita.com/tomzoh/items/7fabe7cb57dd96425867)
+  - [ ] [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
+  - [ ] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
-  - [x] 作りながら学ぶReact入門
+  - [ ] 作りながら学ぶReact入門
   - [ ] React開発 現場の教科書
+- Vue.js
 
 ## Learn a NoSQL Database
 - MongoDB
@@ -173,24 +174,24 @@
 - Memcached
 - Redis
 <br><br>
-- [x] [Railsアプリの意味不明な時間を削って速度を10倍にした話](https://qiita.com/srockstyle/items/3f1dad0c88c9ef4c5288)
-- [x] [【Rails 高速化】ペパボのフリマアプリ「kiteco（キテコ）」の API を高速化したときのことを詳しく書いてみた](https://blog.inouetakuya.info/entry/2014/02/08/221438)
-- [x] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
-- [x] [Rails: データベースのパフォーマンスを損なう3つの書き方（翻訳）](https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793)
+- [ ] [Railsアプリの意味不明な時間を削って速度を10倍にした話](https://qiita.com/srockstyle/items/3f1dad0c88c9ef4c5288)
+- [ ] [【Rails 高速化】ペパボのフリマアプリ「kiteco（キテコ）」の API を高速化したときのことを詳しく書いてみた](https://blog.inouetakuya.info/entry/2014/02/08/221438)
+- [ ] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
+- [ ] [Rails: データベースのパフォーマンスを損なう3つの書き方（翻訳）](https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793)
 
 ## Creating RESTful APIs
 - API作成
-  - [x] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
-  - [x] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
+  - [ ] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
+  - [ ] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
 - WebAPI設計
-  - [x] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
-  - [x] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
-  - [x] [WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
-  - [x] [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた](https://qiita.com/suin/items/f7ac4de914e9f3f35884)
-  - [x] [Web APIにはJSONベースのフォーマットを使おう](https://qiita.com/tkawa/items/2841e155e5b51c09ed40)
-  - [x] [Web APIとは何なのか](https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02)
-  - [x] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
-  - [x] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
+  - [ ] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
+  - [ ] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
+  - [ ] [WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
+  - [ ] [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた](https://qiita.com/suin/items/f7ac4de914e9f3f35884)
+  - [ ] [Web APIにはJSONベースのフォーマットを使おう](https://qiita.com/tkawa/items/2841e155e5b51c09ed40)
+  - [ ] [Web APIとは何なのか](https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02)
+  - [ ] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
+  - [ ] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
 
 ## Authentication/Authorization Methodologles
 - OAuth
@@ -247,20 +248,20 @@
 ## All the things that weren't mentioned above
 - webpack
 - Git/GitHub
-  - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
-  - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
-  - [x] [【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう](https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html)
+  - [ ] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
+  - [ ] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
+  - [ ] [【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう](https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html)
   - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
 - 開発周り
-  - [x] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f)
-  - [x] [コードレビューの際に気をつけること](https://qiita.com/awakia/items/8344ba751426e386e0f5)
-  - [x] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
-  - [x] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
+  - [ ] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f)
+  - [ ] [コードレビューの際に気をつけること](https://qiita.com/awakia/items/8344ba751426e386e0f5)
+  - [ ] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
+  - [ ] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
 - DDD
   - [ ] 実践ドメイン駆動設計
   - [ ] ボトムアップドメイン駆動設計
 - オブジェクト指向設計
-  - [x] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
+  - [ ] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 - 正規表現
   - [ ] [初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
   - [ ] [初心者歓迎！手と目で覚える正規表現入門・その２「微妙な違いを許容しつつ置換しよう](https://qiita.com/jnchito/items/64c3fdc53766ac6f2008)
