@@ -1,5 +1,5 @@
 # Roadmap
-**このリポジトリ見た人は最低1PR送ること！笑**
+https://github.com/kamranahmedse/developer-roadmap
 
 ## Pick a Language
 - Python
