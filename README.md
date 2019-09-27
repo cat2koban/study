@@ -21,6 +21,7 @@ https://github.com/kamranahmedse/developer-roadmap
   - [ ] メタプログラミングRuby
   - [ ] Rubyのしくみ Ruby Under a Microscope
   - [ ] Effective Ruby
+  - [ ] パーフェクト Ruby
 - PHP
 - JavaScript
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
@@ -28,9 +29,7 @@ https://github.com/kamranahmedse/developer-roadmap
   - [ ] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
   - [ ] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
   - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811)
-- CoffeeScript
-  - [ ] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
-  - [ ] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
+  - [ ] JavaScript 本格入門
 - Node.js
 - TypeScript
   - [ ] Revised TypeScript in Definitelyland
