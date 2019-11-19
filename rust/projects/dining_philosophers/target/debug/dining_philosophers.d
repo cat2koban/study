@@ -1,0 +1,1 @@
+/Users/cat2koban/.ghq/github.com/cat2koban/learn/rust/projects/dining_philosophers/target/debug/dining_philosophers: /Users/cat2koban/.ghq/github.com/cat2koban/learn/rust/projects/dining_philosophers/src/main.rs
