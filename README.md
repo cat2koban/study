@@ -4,7 +4,7 @@ https://github.com/kamranahmedse/developer-roadmap
 ## Pick a Language
 - Python
 - Ruby
-  - [ ] 🍒プロを目指す人のRuby入門
+  - [ ] [🍒プロを目指す人のRuby入門](https://www.amazon.co.jp/dp/B077Q8BXHC)
     - [x] 第1章 本書を読み始める前に
     - [ ] 第2章 Rubyの基礎を理解する
     - [ ] 第3章 テストを自動化する
@@ -18,31 +18,72 @@ https://github.com/kamranahmedse/developer-roadmap
     - [ ] 第11章 Rubyのデバック技法を身につける
     - [ ] 第12章 Rubyに関するその他のトピック
   - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
-  - [ ] メタプログラミングRuby
-  - [ ] Rubyのしくみ Ruby Under a Microscope
-  - [ ] Effective Ruby
-  - [ ] パーフェクト Ruby
+  - [ ] [メタプログラミングRuby](https://www.amazon.co.jp/dp/4873117437)
+  - [ ] [パーフェクト Ruby](https://www.amazon.co.jp/dp/4774189774)
 - PHP
 - JavaScript
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
-  - [ ] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
-  - [ ] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
-  - [ ] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
-  - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811)
+  - [ ] [JacaScript Primer](https://jsprimer.net)
+    - [ ] 第一部: 基本文法
+      - [x] JavaScriptとは
+      - [x] コメント
+      - [x] 変数と宣言
+      - [x] 値の評価と表示
+      - [x] データ型とリテラル
+      - [x] 演算子
+      - [x] 暗黙的な型変換
+      - [x] 関数と宣言
+      - [x] 文と式
+      - [x] 条件分岐
+      - [x] ループと反復処理
+      - [ ] オブジェクト
+      - [ ] プロトタイプオブジェクト
+      - [ ] 配列
+      - [ ] 文字列
+      - [ ] 文字列とUnicode
+      - [ ] ラッパーオブジェクト
+      - [ ] 関数とスコープ
+      - [ ] 関数とthis
+      - [ ] クラス
+      - [ ] 例外処理
+      - [ ] 非同期処理:コールバック/Promise/Async Function
+      - [ ] Map/Set
+      - [ ] JSON
+      - [ ] Date
+      - [ ] Math
+      - [ ] ECMAScriptモジュール
+      - [ ] ECMAScript
+      - [ ] 第一部: おわりに
+    - [ ] 第二部: 応用編(ユースケース)
+      - [ ] アプリケーション開発の準備
+      - [ ] Ajax通信
+        - [ ] エントリーポイント
+        - [ ] HTTP通信
+        - [ ] データを表示する
+        - [ ] Promiseを活用する
+      - [ ] Node.jsでCLIアプリ
+        - [ ] Node.jsでHello World
+        - [ ] コマンドライン引数を処理する
+        - [ ] ファイルを読み込む
+        - [ ] MarkdownをHTMLに変換する
+        - [ ] ユニットテストを記述する
+      - [ ] Todoアプリ
+        - [ ] エントリーポイント
+        - [ ] アプリの構成要素
+        - [ ] Todoアイテムの追加を実装する
+        - [ ] イベントとモデル
+        - [ ] Todoアイテムの更新と削除を実装する
+        - [ ] Todoアプリのリファクタリング
   - [ ] JavaScript 本格入門
 - Node.js
 - TypeScript
-  - [ ] Revised TypeScript in Definitelyland
+  - [ ] [TypeScript Deep Dive](https://typescript-jp.gitbook.io/deep-dive/)
 - Golang
-  - [x] [Go(Progate)](https://prog-8.com/languages/go)
-  - [ ] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
-  - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
-  - [ ] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
-  - [ ] はじめての「Go言語」
-  - [ ] Goで作るインタプリタ
-- Rust 
-  - [ ] [TRPL](https://doc.rust-lang.org/book/) 
+  - [ ] [入門 Go プログラミング](https://www.amazon.co.jp/dp/B07Q23N697)
+  - [ ] Gopher 道場
+- Rust
+  - [ ] [TRPL](https://doc.rust-lang.org/book/)
 - Java
 - Kotlin
   - [ ] Kotlin Webアプリケーション──新しいサーバサイドプログラミング
@@ -59,12 +100,13 @@ https://github.com/kamranahmedse/developer-roadmap
 - HTTP
   - [ ] 3分間HTTP＆メールプロトコル基礎講座
   - [ ] HTTPの教科書
+  - [ ] [詳解 HTTP2.0](https://www.amazon.co.jp/dp/B087JFFK9V)
 - HTTPS
 - FTP
 - SSL/TLS
 
 ## Learn Package Manager
-- [ ] 自作gem作って公開する
+- [ ] 自作 gem の作成・公開
 
 ## Standards and Best Practices
 - コーディング規約
@@ -92,7 +134,6 @@ https://github.com/kamranahmedse/developer-roadmap
   - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)
 - SQL
   - [x] [SQL(Progate)](https://prog-8.com/languages/sql)
-  - [ ] [BigQueryデータ分析N本ノック](https://github.com/wantedly/wantedly/issues/42563)
 - Oracle
 - MySQL
 - MariaDB
@@ -103,7 +144,7 @@ https://github.com/kamranahmedse/developer-roadmap
 ## Learn a Framework
 - Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
-  - [ ] [Rails Tutorial](https://railstutorial.jp/)
+  - [x] [Rails Tutorial](https://railstutorial.jp/)
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
     - [ ] Railsをはじめよう
     - [ ] Active Recordの基礎
@@ -151,19 +192,9 @@ https://github.com/kamranahmedse/developer-roadmap
     - [ ] Railsガイドのガイドライン
 
 - React.js
-  - [ ] [React(Progate)](https://prog-8.com/languages/react)
-  - [ ] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
-  - [ ] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
-  - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
-  - [ ] [正真正銘のReactだけの不純物なしでReact入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
-  - [ ] [Reactを使うとなぜjQueryが要らなくなるのか](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)
-  - [ ] [5分で理解する React.js](https://qiita.com/tomzoh/items/7fabe7cb57dd96425867)
-  - [ ] [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
-  - [ ] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
-  - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
-  - [ ] 作りながら学ぶReact入門
-  - [ ] React開発 現場の教科書
+ - [ ] [りあクト！ TypeScript で始めるつらくない React 開発 第2版](https://oukayuka.booth.pm/items/1312652)
 - Vue.js
+ - [ ] [Vue.js 入門 基礎から実践アプリケーション開発まで](https://www.amazon.co.jp/dp/B07J6FP6NQ)
 
 ## Learn a NoSQL Database
 - MongoDB
@@ -174,25 +205,9 @@ https://github.com/kamranahmedse/developer-roadmap
 ## Caching
 - Memcached
 - Redis
-<br><br>
-- [ ] [Railsアプリの意味不明な時間を削って速度を10倍にした話](https://qiita.com/srockstyle/items/3f1dad0c88c9ef4c5288)
-- [ ] [【Rails 高速化】ペパボのフリマアプリ「kiteco（キテコ）」の API を高速化したときのことを詳しく書いてみた](https://blog.inouetakuya.info/entry/2014/02/08/221438)
-- [ ] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
-- [ ] [Rails: データベースのパフォーマンスを損なう3つの書き方（翻訳）](https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793)
 
 ## Creating RESTful APIs
-- API作成
-  - [ ] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
-  - [ ] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
-- WebAPI設計
-  - [ ] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
-  - [ ] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
-  - [ ] [WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
-  - [ ] [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた](https://qiita.com/suin/items/f7ac4de914e9f3f35884)
-  - [ ] [Web APIにはJSONベースのフォーマットを使おう](https://qiita.com/tkawa/items/2841e155e5b51c09ed40)
-  - [ ] [Web APIとは何なのか](https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02)
-  - [ ] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
-  - [ ] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
+  - [x] [Web API: the Good Parts](https://www.amazon.co.jp/dp/4873116864)
 
 ## Authentication/Authorization Methodologles
 - OAuth
@@ -227,10 +242,7 @@ https://github.com/kamranahmedse/developer-roadmap
 - WebSocket
 
 ## Learn GraphQL
-- GraphQL
-
-## Look into Graph Databases
-- Graph DB
+- [ ] [はじめての GraphQL](https://www.amazon.co.jp/dp/487311893X)
 
 ## Learn some CI/CD Tool
 - Jenkins
