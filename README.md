@@ -6,8 +6,8 @@ https://github.com/kamranahmedse/developer-roadmap
 - Ruby
   - [ ] [🍒プロを目指す人のRuby入門](https://www.amazon.co.jp/dp/B077Q8BXHC)
     - [x] 第1章 本書を読み始める前に
-    - [ ] 第2章 Rubyの基礎を理解する
-    - [ ] 第3章 テストを自動化する
+    - [x] 第2章 Rubyの基礎を理解する
+    - [x] 第3章 テストを自動化する
     - [ ] 第4章 配列や繰り返し処理を理解する
     - [ ] 第5章 ハッシュやシンボルを理解する
     - [ ] 第6章 正規表現を理解する
@@ -17,13 +17,13 @@ https://github.com/kamranahmedse/developer-roadmap
     - [ ] 第10章 yieldとProcを理解する
     - [ ] 第11章 Rubyのデバック技法を身につける
     - [ ] 第12章 Rubyに関するその他のトピック
-  - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
   - [ ] [メタプログラミングRuby](https://www.amazon.co.jp/dp/4873117437)
   - [ ] [パーフェクト Ruby](https://www.amazon.co.jp/dp/4774189774)
+  - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
 - PHP
 - JavaScript
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
-  - [ ] [JacaScript Primer](https://jsprimer.net)
+  - [ ] [JavaScript Primer](https://jsprimer.net)
     - [ ] 第一部: 基本文法
       - [x] JavaScriptとは
       - [x] コメント
