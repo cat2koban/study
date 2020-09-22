@@ -13,7 +13,7 @@ https://github.com/kamranahmedse/developer-roadmap
     - [x] 第6章 正規表現を理解する
     - [x] 第7章 クラス作成を理解する
     - [x] 第8章 モジュールを理解する
-    - [ ] 第9章 例外処理を理解する
+    - [x] 第9章 例外処理を理解する
     - [ ] 第10章 yieldとProcを理解する
     - [ ] 第11章 Rubyのデバック技法を身につける
     - [ ] 第12章 Rubyに関するその他のトピック
@@ -40,9 +40,9 @@ https://github.com/kamranahmedse/developer-roadmap
       - [x] プロトタイプオブジェクト
       - [x] 配列
       - [x] 文字列
-      - [ ] 文字列とUnicode
-      - [ ] ラッパーオブジェクト
-      - [ ] 関数とスコープ
+      - [x] 文字列とUnicode
+      - [x] ラッパーオブジェクト
+      - [x] 関数とスコープ
       - [ ] 関数とthis
       - [ ] クラス
       - [ ] 例外処理
