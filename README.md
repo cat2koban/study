@@ -89,12 +89,18 @@ https://github.com/kamranahmedse/developer-roadmap
 - Kotlin
   - [ ] Kotlin Webアプリケーション──新しいサーバサイドプログラミング
 - Scala
+- C++
+  - [ ] [C++入門 AtCoder](https://atcoder.jp/contests/APG4b)
 
 ## Learn about Managing Servers
 - Unix
   - [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
 - Linux
 - Windows
+
+## Learn Algorithm
+- [ ] [AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
+- [ ] [プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](http://amazon.co.jp/dp/B00U5MVXZO)
 
 ## Networking and Security
 - DNS
@@ -290,3 +296,4 @@ https://github.com/kamranahmedse/developer-roadmap
   - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
   - [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
   - [ ] [【保存版】半年以内にエンジニアになりたい人が読んだ方がいい新卒研修資料まとめ](http://harv-tech.hatenablog.com/entry/new-employee-training)
+  
