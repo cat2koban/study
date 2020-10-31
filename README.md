@@ -45,7 +45,7 @@ https://github.com/kamranahmedse/developer-roadmap
       - [x] 関数とスコープ
       - [ ] 関数とthis
       - [ ] クラス
-      - [ ] 例外処理
+      - [x] 例外処理
       - [x] 非同期処理:コールバック/Promise/Async Function
       - [ ] Map/Set
       - [ ] JSON
@@ -153,8 +153,8 @@ https://github.com/kamranahmedse/developer-roadmap
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
-    - [ ] Railsをはじめよう
-    - [ ] Active Recordの基礎
+    - [x] Railsをはじめよう
+    - [x] Active Recordの基礎
     - [ ] Active Recordマイグレーション
     - [ ] Active Recordバリデーション
     - [ ] Active Recordコールバック
